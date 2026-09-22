@@ -8,7 +8,7 @@
 
 <br>
 
-## 👋 Sobre
+##Descrição
 
 Full stack, mas de verdade: entro no projeto quando é só uma ideia e fico até o deploy.
 Gosto de resolver o problema chato que ninguém quer pegar e de deixar interface bonita
