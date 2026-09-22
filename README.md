@@ -22,7 +22,7 @@ e um framework para RPGs — dois extremos completamente diferentes, do jeito qu
 ## 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sql,git&theme=dark" alt="stack" />
 </p>
 
 <br>
