@@ -41,7 +41,7 @@ Sempre com algo em produção, nem sempre terminado no prazo que eu gostaria —
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sqlite,git,github&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,git,github&theme=dark" alt="stack" />
 </p>
 
 <br>
